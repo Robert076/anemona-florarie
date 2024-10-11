@@ -1,0 +1,13 @@
+.footer{ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width: 768px) {
+    .footer{
+
+        transform: translateY(350px);
+    }
+}

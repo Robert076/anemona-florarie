@@ -1,0 +1,35 @@
+.perfumes{
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 !important;
+}
+
+@media(max-width: 1100px) {
+    .flowers{
+        height: 60vh;
+    }
+    .perfumes{
+        height: 60vh;
+    }
+}
+
+@media(max-width:768px) {
+    .perfumes{
+        margin-top: 30vh !important;
+    }
+    .perfumes {
+        height: 55vh;
+    }
+    .perfumes button{
+        margin-bottom: 50px;
+    }
+}
+
+@media(max-width:400px) {
+    .perfumes{
+        margin-top: 45vh !important;
+
+    }
+}

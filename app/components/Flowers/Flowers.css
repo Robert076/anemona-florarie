@@ -1,0 +1,19 @@
+.flowers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+    margin: 0 !important;
+}
+
+@media(max-width:768px) {
+    .flowers{
+        height: 55vh;
+    }
+    .flowers img{
+        margin-top: 15px !important;
+    }
+    .flowers h1{
+        margin-top: 25px;
+    }
+}

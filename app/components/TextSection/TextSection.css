@@ -1,0 +1,16 @@
+.text-section {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 768px) { /* md breakpoint */
+    .wrapper {
+        display: flex;
+        justify-self: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+}

@@ -1,0 +1,32 @@
+.images-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .images-section img {
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+    transition: 0.15s all ease-in;
+    
+}
+  
+  .images-section img:hover {
+    scale: 1.02;
+    width: 100%;
+  }
+  
+  .images-section .row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  @media(max-width:768px) {
+    .images-section{
+        transform: translateX(5px);
+    }
+  }

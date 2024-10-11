@@ -1,0 +1,22 @@
+.floating-logo img{
+    width: 50px;
+    height: 45px;
+}
+
+.floating-logo {
+    position: fixed;
+    top: 10px;
+    left: 8px;
+}
+
+@media(min-width: 1200px) {
+    .floating-logo{
+        top: 25px;
+        left: 25px;
+    }
+
+    .floating-logo img{
+        width: 70px;
+        height: 60px;
+    }
+}
