@@ -5,7 +5,7 @@ const FloatingLogo = () => {
   return (
     <div className="floating-logo">
       <a href="#hero">
-        <img src="/logo.jpeg" alt="" />
+        <img src="/anemona-florarie/logo.jpeg" alt="" />
       </a>
     </div>
   );
