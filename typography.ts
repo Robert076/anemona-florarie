@@ -7,17 +7,16 @@ const buttonTexts = ["Vreau un aranjament",
     "Vreau un parfum"
 ];
 const imagesFlowers = [
-  "/aranjamente1.jpeg",
-  "/aranjamente2.jpeg",
-  "/aranjamente3.jpeg",
-  "/aranjamente4.jpeg",
+  "anemona-florarie/aranjamente1.jpeg",
+  "anemona-florarie/aranjamente2.jpeg",
+  "anemona-florarie/aranjamente3.jpeg",
+  "anemona-florarie/aranjamente4.jpeg",
 ];
-
 const imagesPerfumes = [
-    "/parfumuri1.jpeg",
-    "/parfumuri2.jpeg",
-    "/parfumuri3.jpeg",
-    "/parfumuri4.jpeg",
+    "anemona-florarie/parfumuri1.jpeg",
+    "anemona-florarie/parfumuri2.jpeg",
+    "anemona-florarie/parfumuri3.jpeg",
+    "anemona-florarie/parfumuri4.jpeg",
   ];
 
 export {headers, texts, buttonTexts, imagesFlowers, imagesPerfumes}
