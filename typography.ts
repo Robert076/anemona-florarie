@@ -7,16 +7,16 @@ const buttonTexts = ["Vreau un aranjament",
     "Vreau un parfum"
 ];
 const imagesFlowers = [
-  "aranjamente1.jpeg",
-  "aranjamente2.jpeg",
-  "aranjamente3.jpeg",
-  "aranjamente4.jpeg",
+  "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714625/aranjamente1_vvq2lo.jpg",
+  "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714626/aranjamente2_xx5hnc.jpg",
+  "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714625/aranjamente3_ehojg3.jpg",
+  "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714626/aranjamente4_ci5urg.jpg",
 ];
 const imagesPerfumes = [
-    "parfumuri1.jpeg",
-    "parfumuri2.jpeg",
-    "parfumuri3.jpeg",
-    "parfumuri4.jpeg",
+    "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714625/parfumuri1_js3wxl.jpg",
+    "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714625/parfumuri2_deaevw.jpg",
+    "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714626/parfumuri3_uroec5.jpg",
+    "https://res.cloudinary.com/dkzwl4q1p/image/upload/v1728714626/parfumuri4_kbduf8.jpg",
   ];
 
 export {headers, texts, buttonTexts, imagesFlowers, imagesPerfumes}
