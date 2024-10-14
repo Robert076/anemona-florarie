@@ -27,6 +27,6 @@
 
   @media(max-width:768px) {
     .images-section{
-        transform: translateX(5px);
+        transform: translateX(8px);
     }
   }
