@@ -4,7 +4,7 @@ This is the homepage for **Anemona**, a flower shop based in Bistrița, Romania.
 
 ## 🌐 Live Demo
 
-Check out the live website here: [Anemona Flower Shop Website](https://your-live-site-url.com)
+Check out the live website here: [Anemona Flower Shop Website](https://anemona-florarie.ro)
 
 ## 🚀 Technologies Used
 
