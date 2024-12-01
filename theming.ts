@@ -31,4 +31,5 @@ export const theming = {
     heightFooter: '10vh',
     backgroundFooter: '#eaeaea',
     footerTextColor: '#a2a2a2',
+    galleryPadding: '1em',
 }
