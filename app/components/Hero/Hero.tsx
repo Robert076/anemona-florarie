@@ -35,7 +35,7 @@ const Hero = () => {
       >
         {labels.description}
       </p>
-      <Button text="0773 885 401" href="tel:0773885401"></Button>
+      <Button text="0773 885 401" href=""></Button>
     </div>
   );
 };
