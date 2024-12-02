@@ -33,7 +33,7 @@ const TextSection: React.FC<TextSectionProps> = ({ header, text, buttonText }) =
         >
           {text}
         </p>
-        <Button text={buttonText} href="tel:0773885401" />
+        <Button text={buttonText} href="" />
       </div>
     </div>
   );
